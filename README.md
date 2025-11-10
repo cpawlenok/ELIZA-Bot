@@ -55,9 +55,6 @@ quit
 
 ELIZA: Goodbye. Take care.
 
-shell
-Copy code
-
 ### Session 2
 My friends don’t listen to me.
 ELIZA: Do you think your friends should listen to you more?
@@ -65,9 +62,6 @@ ELIZA: Do you think your friends should listen to you more?
 Yes.
 
 ELIZA: You seem quite certain.
-
-shell
-Copy code
 
 ### Session 3
 I can’t focus when I study.
