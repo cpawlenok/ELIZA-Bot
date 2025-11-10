@@ -1,4 +1,4 @@
-# 💬 ELIZA Reimagined: A Rule-Based Chatbot Inspired by the 1960s Classic
+# ELIZA Reimagined: A Rule-Based Chatbot Inspired by the 1960s Classic
 *Exploring early conversational AI design through a modern lens.*
 
 ## Overview
