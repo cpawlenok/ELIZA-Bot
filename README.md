@@ -44,12 +44,15 @@ Hello, I’ve been feeling tired lately.
 ELIZA: Do you think coming here will help you not be tired?
 
 I’m not sure.
+
 ELIZA: Why do you think you are not sure?
 
 Because I have too much work.
+
 ELIZA: Tell me more about your work.
 
 quit
+
 ELIZA: Goodbye. Take care.
 
 shell
@@ -60,6 +63,7 @@ My friends don’t listen to me.
 ELIZA: Do you think your friends should listen to you more?
 
 Yes.
+
 ELIZA: You seem quite certain.
 
 shell
