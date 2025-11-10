@@ -65,13 +65,13 @@ ELIZA: You seem quite certain.
 
 ### Session 3
 I can’t focus when I study.
+
 ELIZA: What would it mean to you if you could focus?
 
 I guess I’d finally finish my projects.
+
 ELIZA: Why is it important for you to finish your projects?
 
-yaml
-Copy code
 
 These examples demonstrate the illusion of empathy through simple linguistic reflection and pattern substitution.
 
